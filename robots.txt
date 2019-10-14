@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ebiefaezoh.amrsnghe.org/sitemap.xml
